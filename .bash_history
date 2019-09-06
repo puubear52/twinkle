@@ -24,3 +24,20 @@ git remote add origin https://github.com/puubear52/bear.git
 git push -u origin bear
 git push -u origin puu
 sudo su - ec2-user
+ls -la
+ls -la
+touch newone
+git status
+git add newone .bash_history
+git status
+git commit -m "adding remaining itom" .
+git branch
+git remote add origin https://github.com/puubear52/bear.git
+git push -u origin pu
+git push -u origin bear
+git remote add ooo https://github.com/puubear52/bear.git
+git push -u ooo pu
+git push -u ooo puu
+ls -la
+git remote add origin https://github.com/puubear52/bear
+git push -u origin puu
