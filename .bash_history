@@ -41,3 +41,40 @@ git push -u ooo puu
 ls -la
 git remote add origin https://github.com/puubear52/bear
 git push -u origin puu
+ls -la
+touch anotherfile.txt
+git add .
+git commit -m "adding another file" .
+git status
+git push -u origin puu
+git branch
+ls -la
+git add .
+git commit -m "new branch added" .
+cat>>hiiiithere
+git add .
+git commit -m "new branch added" .
+git push -u origib puu
+git push -u origin puu
+git remote add origin https://github.com/puubear52/bear123.git
+git remote add origin https://github.com/puubear52/bear098.git
+git push -u origin puu
+touch 1234567890.txt
+git add .
+git commit -m "addd text files" .
+git push -u origin puu
+git init
+git add .
+git commit -m "2nd commit" .
+touch nufuieweiubebehdb
+git init
+git add .
+git commit -m "3rd commit" .
+git remote add origin https://github.com/puubear52/bear098.git
+git push -u origin puu
+clear
+touch 098.txt
+git status
+git add 098.txt
+git commit -m "yfefue" 098.txt
+git push -u origin puu
