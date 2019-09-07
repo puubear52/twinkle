@@ -78,3 +78,16 @@ git status
 git add 098.txt
 git commit -m "yfefue" 098.txt
 git push -u origin puu
+ls -la
+git remote add alias https://github.com/puubear52/bear098.git
+git push -u alias puu
+touch bitbucket
+git init
+git add .
+git status
+git commit -m "all files are commited" .
+git remote add origin http://ec2-3-19-69-233.us-east-2.compute.amazonaws.com:8080/gitbucket/git/gitbucket/puubear.git
+git remote add bit http://ec2-3-19-69-233.us-east-2.compute.amazonaws.com:8080/gitbucket/git/gitbucket/puubear.git
+git push -u bit puu
+ping http://ec2-3-19-69-233.us-east-2.compute.amazonaws.com:8080/gitbucket/git/gitbucket/puubear.git
+which git
